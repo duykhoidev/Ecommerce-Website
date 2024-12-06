@@ -12,7 +12,7 @@ const Footer = () => {
             <div className="text-xl font-bold tracking-wide">Ecommerce</div>
           </Link>
           <p>
-            Le Van Sy, Ward 1, Tan Binh District, Ho Chi Minh City, Viet Nam
+            Le Van Sy Street, Ward 1, Tan Binh District, Ho Chi Minh City, Viet Nam
           </p>
           <span className="font-semibold">nguyenvuduykhoi2001@gmail.com</span>
           <span className="font-semibold">+84 903 087 955</span>
@@ -72,7 +72,7 @@ const Footer = () => {
               placeholder="Email address"
               className="p-4 w-3/4"
             />
-            <button className="w-1/4 bg-numberCart text-white">JOIN</button>
+            <button className="w-1/4 bg-colorCart text-white">JOIN</button>
           </div>
           <span className="font-semibold">Secure Payments</span>
           <div className="flex justify-between">
