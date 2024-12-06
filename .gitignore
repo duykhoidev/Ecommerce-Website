@@ -39,3 +39,8 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+#checkout part
+src/app/orders
+src/app/success
+src/app/checkout
